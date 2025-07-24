@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# NEURON compiled files
+*.o
+*.dll
+nrnmech.dll
+mod_func.c
+mod_func.o
+
+# VS Code
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
